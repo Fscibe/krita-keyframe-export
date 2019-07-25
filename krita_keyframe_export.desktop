@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=krita_keyframe_export
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Keyframe Export
+Comment=Export animation's keyframes only.
